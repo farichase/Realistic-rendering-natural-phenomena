@@ -1,0 +1,17 @@
+.content {
+    margin-left: 5%;
+    position: relative;
+}
+.item {
+  font-family: 'Century Gothic', sans-serif;
+  font-size: 25px;
+  font-weight: lighter;
+  color: #323332;
+}
+.item a{
+    color: #323332;
+  text-decoration: none;
+}
+.item a.activeL {
+    color:#c76864;
+}
